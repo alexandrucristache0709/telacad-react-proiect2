@@ -21,7 +21,7 @@ function App() {
         <Route path="/about" component={About} />
         <Route path="/cart" component={Cart} />
         <Route path="/favorites" component={Favorites} />
-        <Route path="/terms" component={Terms} />
+        <Route path="/terms-and-conditions" component={Terms} />
         <Route path="/category/:categoryName" component={Category} />
         <Route path="/product/:productId" component={Product} />
         <Route path="*" component={Page404} />
