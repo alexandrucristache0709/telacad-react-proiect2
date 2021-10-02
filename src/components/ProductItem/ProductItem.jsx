@@ -1,8 +1,8 @@
 import React from "react";
 import "./ProductItem.css";
 import { connect } from "react-redux";
-import { addToCart } from "../redux/cart/cartActions";
-import { addToFavorites } from "../redux/favorites/favoritesActions";
+import { addToCart } from "../../redux/cart/cartActions";
+import { addToFavorites } from "../../redux/favorites/favoritesActions";
 import { Link } from "react-router-dom";
 
 function ProductItem(props) {
