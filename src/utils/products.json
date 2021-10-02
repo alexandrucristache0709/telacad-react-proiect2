@@ -1,236 +1,160 @@
 {
-    "shoes": {
+    "phones": {
         "items": [
             {
                 "id": 1,
-                "name": "Sneakerși piele Massimo Dutti",
-                "price": 135,
+                "name": "IPhone 12 Pro Max",
+                "price": 5499,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/Rz8lVQa.jpg",
-                "size": 45,
-                "colour": "Negru",
-                "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Sneakerși din piele cu talpă inițial albă, din colecția de toamnă-iarnă 2019, Massimo Dutti."
+                "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aXBob25lJTIwMTElMjBwcm8lMjBtYXh8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "memory": 128,
+                "size": 6.7,
+                "unit": "inch",
+                "colour": "Pacific Blue",
+                "brand": "Apple",
+                "description": "IPhone 12 Pro Max ofera viteze LTE de pana la 2 Gbps5."
             },
             {
                 "id": 2,
-                "name": "Teniși negri Polo Ralph Lauren",
-                "price": 100,
+                "name": "Samsung Galaxy Z Flip3",
+                "price": 4999,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/Og3Oh24.jpg",
-                "size": 45,
-                "colour": "Negru",
-                "material": "Pânză",
-                "brand": "Polo Ralph Lauren",
-                "description": "Teniși din pânză cu talpă inițial albă, din colecția de primăvară-vară 2019, Fashion Days."
+                "image": "https://images.unsplash.com/photo-1592813630413-1124aa567638?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c2Ftc3VuZyUyMGdhbGF4eSUyMGZvbGR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "memory": 256,
+                "size": 6.7,
+                "unit": "inch",
+                "colour": "LAVENDER",
+                "brand": "Samsung",
+                "description": "Un smartphone cu ecran de dimensiuni generoase, design atrăgător și linii moderne care se pliază în formă compactă."
             },
             {
                 "id": 3,
-                "name": "Ghete din piele maro Massimo",
-                "price": 185,
+                "name": "Xiaomi Redmi Note 9 Pro",
+                "price": 999,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/zoqSu87.jpg",
-                "size": 45,
-                "colour": "Maro",
-                "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Ghete maro din piele, din colecția de toamnă-iarnă 2017, Massimo Dutti."
+                "image": "https://images.unsplash.com/photo-1604418605195-7dcb058b43dd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8eGlhb21pJTIwcmVkbWklMjBub3RlJTIwOSUyMHByb3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "memory": 128,
+                "size": 6.67,
+                "unit": "inch",
+                "colour": "Interstellar Grey",
+                "brand": "Xiaomi",
+                "description": "Seria Redmi Note ofera cea mai buna experienta de utilizare, continuand astfel mostenirea predecesorilor."
             }
         ],
-        "image": "https://i.imgur.com/X0qldXO.jpg",
-        "name": "Încălțăminte",
-        "description": "Ghete, pantofi, sneakerși: finețe garantată!"
+        "image": "https://images.unsplash.com/photo-1513611771808-7e8ab7f1dec6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGhvbmVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Telefoane mobile",
+        "description": "Telefoane mobile si accesorii"
     },
-    "sweaters": {
+    "tablets": {
         "items": [
             {
                 "id": 4,
-                "name": "Pulovăr finuț cu guler",
-                "price": 95,
+                "name": "Apple iPad 8",
+                "price": 1649,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/6afzuEr.jpg",
-                "size": "L",
-                "colour": "Maro",
-                "material": "Cașmir",
-                "brand": "DS Damat",
-                "description": "Pulovăr din cașmir, slim fit, colecția toamnă-iarnă 2019, DS Damat."
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo8RpRpnL3GeVpQ4Q10l1dmqSI_QwYEhAGIQ&usqp=CAU",
+                "memory": 32,
+                "size": 10.2,
+                "unit": "inch",
+                "colour": "Space Grey",
+                "brand": "Apple",
+                "description": "Cea mai avansată experiență iPad."
             },
             {
                 "id": 5,
-                "name": "Pulovăr multicolor",
-                "price": 105,
+                "name": "Huawei MatePad Pro",
+                "price": 1899,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/s0VytKc.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "McNeal",
-                "description": "Pulovăr multicolor, colecția toamnă-iarnă 209, McNeal."
+                "image": "https://images.unsplash.com/photo-1607452263110-39a87c399c50?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aHVhd2VpJTIwbWF0ZXBhZCUyMHByb3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "memory": 128,
+                "size": 10.8,
+                "unit": "inch",
+                "colour": "Gray",
+                "brand": "Huawei",
+                "description": "Senzor de lumina ambientala. Suporta detectarea temperaturii culorii."
             },
             {
                 "id": 6,
-                "name": "Pulovăr călduros și frumos",
-                "price": 165,
+                "name": "Samsung Galaxy Tab S7",
+                "price": 3169,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/BWGgzlK.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Lână",
-                "brand": "SELECTED",
-                "description": "Pulovăr din lână, în carouri, colecția toamnă-iarnă 2019, SELECTED."
-            },
-            {
-                "id": 7,
-                "name": "Pulovăr din lână",
-                "price": 160,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/dTcMbHT.jpg",
-                "size": "L",
-                "colour": "Crem",
-                "material": "Lână",
-                "brand": "Massimo Dutti",
-                "description": "Pulovăr din lână cu model, colecția toamnă-iarnă 2019, Massimo Dutti."
+                "image": "https://images.unsplash.com/photo-1620288650879-20db0eb38c05?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2Ftc3VuZyUyMGdhbGF4eSUyMHRhYiUyMHM3fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "memory": 64,
+                "size": 12.7,
+                "unit": "inch",
+                "colour": "Light Green",
+                "brand": "Samsung",
+                "description": "Cel mai mare nivel de sensibilitate S Pen, pentru o experiență de scriere realistă"
             }
         ],
-        "image": "https://i.imgur.com/SZU7liE.jpg",
-        "name": "Pulovere",
-        "description": "Pulovărașe elegănțele, slim, clasă superioară."
+        "image": "https://images.unsplash.com/photo-1606127172103-c0cff0ae357a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHRhYmxldHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Tablete",
+        "description": "Tablete si accesorii"
     },
-    "pants": {
+    "laptops": {
         "items": [
             {
                 "id": 8,
-                "name": "Blugi bleumarin slim fit",
-                "price": 35,
+                "name": "Apple MacBook Air 13-inch",
+                "price": 4899,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/VhpATO8.jpg",
-                "size": "34",
-                "colour": "Bleumarin închis",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi bleumarin, slim fit, colecția primăvară-vară 2019, DS Damat."
+                "image": "https://images.unsplash.com/photo-1600262300671-295cb21f4d06?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFjYm9vayUyMGFpciUyMDEzJTIwaW5jaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "memory": 256,
+                "size": 13,
+                "unit": "inch",
+                "colour": "Space Grey",
+                "brand": "Apple",
+                "description": "Cel mai subtire si mai usor notebook, complet transformat de cipul Apple M1."
             },
             {
                 "id": 9,
-                "name": "Blugi negri slim fit",
-                "price": 40,
+                "name": "ASUS ZenBook 13",
+                "price": 3299,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/weiI07t.jpg",
-                "size": "34",
-                "colour": "Negru-gri",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi negri, slim fit, colecția toamnă-iarnă 2019, DS Damat."
+                "image": "data:image/jpeg;base64,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",
+                "memory": 512,
+                "size": 13.3,
+                "unit": "inch",
+                "colour": "Lilac Mist",
+                "brand": "ASUS",
+                "description": "Sistemul extraordinar de atragator ZenBook 13 este mai portabil ca niciodata."
             }
         ],
-        "image": "https://i.imgur.com/srQCDRN.jpg",
-        "name": "Pantaloni/blugi",
-        "description": "Jeanși și pantaloni pentru baieții care și-o ard patroni!"
+        "image": "https://images.unsplash.com/photo-1588620353536-ded12e518f45?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bGFwdG9wc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "Laptop-uri",
+        "description": "Laptopuri si accesorii"
     },
-    "jackets": {
+    "desktops": {
         "items": [
             {
                 "id": 10,
-                "name": "Haină lungă din lână virgină",
-                "price": 210,
+                "name": "Mac Mini PC Apple",
+                "price": 3399,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/IXrZitQ.jpg",
-                "size": "L",
-                "colour": "Gri închis",
-                "material": "Lână virgină",
-                "brand": "Peek and Cloppenburg",
-                "description": "Haină lungă din lână virgină, colecția toamnă-iarnă 2018, Peek and Cloppenburg."
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexTt3q8bS2HpSHzfDTD4vBUij31b5gJEWLH6aHRaebePsAjXBJe5vbMqD2Fc2MAXqy-A&usqp=CAU",
+                "memory": 256,
+                "size": 1.2,
+                "unit": "KG",
+                "colour": "Gray",
+                "brand": "Apple",
+                "description": "Cip-ul Apple M1 duce cel mai versatil desktop intr-o alta dimensiune."
             },
             {
                 "id": 11,
-                "name": "Geacă bleumarin cu glugă detașabilă",
-                "price": 250,
+                "name": "All-in-One Lenovo IdeaCentre",
+                "price": 7499,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/eCZd7PU.jpg",
-                "size": "L",
-                "colour": "Bleumarin",
-                "material": "Poliester",
-                "brand": "DS Damat",
-                "description": "Geacă bleumarin cu glugă detașabilă, colecția toamnă-iarnă 2019, DS Damat."
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jlrsPSopQtEA9yLM78jSVekMJg9s2HOqGQ&usqp=CAU",
+                "memory": 512,
+                "size": 9.2,
+                "unit": "KG",
+                "colour": "Gray",
+                "brand": "Lenovo",
+                "description": "Pregatiti-va pentru a fi impresionati de imagini bogate si precise pe un ecran QHD."
             }
         ],
-        "image": "https://i.imgur.com/81I6Oab.jpg",
-        "name": "Geci/Haine",
-        "description": "Confortabile, călduroase și nu arăți ca un cartof!"
-    },
-    "tshirts": {
-        "items": [
-            {
-                "id": 12,
-                "name": "Tricou în dungi",
-                "price": 90,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/BWvzCwB.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "Lacoste",
-                "description": "Tricou în dungi, colecția primăvară-vară 2019, Lacoste."
-            },
-            {
-                "id": 13,
-                "name": "Tricou de ping pong",
-                "price": 110,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/4BbF4TO.jpg",
-                "size": "L",
-                "colour": "Roșu",
-                "material": "Poliester",
-                "brand": "Li Ning",
-                "description": "Tricou de ping pong cu imprimeu cu dragon, purtat de jucatorii naționalei chinei în 2013."
-            },
-            {
-                "id": 14,
-                "name": "Tricou original BVB cu autograf",
-                "price": 1909,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/etIsbHV.jpg",
-                "size": "L",
-                "colour": "Galben-Negru",
-                "material": "Poliester",
-                "brand": "Puma",
-                "description": "Tricoul purtat de Borussia Dortmund în sezonul competițional 2018-2019, cu numarul 7 și numele 'SANCHO'. Tricoul este semnat de portarul Borussiei, Roman Burki."
-            }
-        ],
-        "image": "https://i.imgur.com/l27WtFL.jpg",
-        "name": "Tricouri",
-        "description": "Și de băiețeală și de sport."
-    },
-    "accesories": {
-        "items": [
-            {
-                "id": 15,
-                "name": "Fular TJ cu două fețe",
-                "price": 85,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/rSVUiLO.jpg",
-                "size": "Universal",
-                "colour": "Gri-Bleumarin",
-                "material": "Cașmir",
-                "brand": "Trussardi Jeans",
-                "description": "Fular cu imprimeu, din colecția toamnă-iarnă 2018, Trussardi Jeans."
-            },
-            {
-                "id": 16,
-                "name": "Mănuși din piele",
-                "price": 60,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/LbjGaZ1.jpg",
-                "size": "L",
-                "colour": "Negru",
-                "material": "Piele",
-                "brand": "DS Damat",
-                "description": "Mănuși din piele, cu model, din colecția toamnă-iarnă 2018, DS Damat."
-            }
-        ],
-        "image": "https://i.imgur.com/qw3wDj8.jpg",
-        "name": "Accesorii",
-        "description": "Fulare, căciuli, mănuși: nu mai sta pe gânduri, cumpără-le acuși!"
+        "image": "https://images.unsplash.com/photo-1593640495390-1ff7c3f60e9b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGRlc2t0b3B8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "name": "PC",
+        "description": "PC, periferice si software"
     }
 }
